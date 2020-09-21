@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/countdown-timer-boilerplate/static/css/main.8f332ea3.chunk.css",
+    "main.js": "/countdown-timer-boilerplate/static/js/main.b5e8bef7.chunk.js",
+    "main.js.map": "/countdown-timer-boilerplate/static/js/main.b5e8bef7.chunk.js.map",
+    "runtime-main.js": "/countdown-timer-boilerplate/static/js/runtime-main.6ef87fe9.js",
+    "runtime-main.js.map": "/countdown-timer-boilerplate/static/js/runtime-main.6ef87fe9.js.map",
+    "static/js/2.74ed5750.chunk.js": "/countdown-timer-boilerplate/static/js/2.74ed5750.chunk.js",
+    "static/js/2.74ed5750.chunk.js.map": "/countdown-timer-boilerplate/static/js/2.74ed5750.chunk.js.map",
+    "index.html": "/countdown-timer-boilerplate/index.html",
+    "precache-manifest.2feca5a5e0198522cae5b9078f528448.js": "/countdown-timer-boilerplate/precache-manifest.2feca5a5e0198522cae5b9078f528448.js",
+    "service-worker.js": "/countdown-timer-boilerplate/service-worker.js",
+    "static/css/main.8f332ea3.chunk.css.map": "/countdown-timer-boilerplate/static/css/main.8f332ea3.chunk.css.map",
+    "static/js/2.74ed5750.chunk.js.LICENSE.txt": "/countdown-timer-boilerplate/static/js/2.74ed5750.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/countdown-timer-boilerplate/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ef87fe9.js",
+    "static/js/2.74ed5750.chunk.js",
+    "static/css/main.8f332ea3.chunk.css",
+    "static/js/main.b5e8bef7.chunk.js"
+  ]
+}
